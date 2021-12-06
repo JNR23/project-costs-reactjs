@@ -9,7 +9,7 @@ import Home from './components/pages/Home';
 import NewProject from './components/pages/NewProject';
 import Projects from './components/pages/Projects';
 
-function App() {
+export default function App() {
   return (
       <Router>
         <Navbar />
@@ -26,5 +26,3 @@ function App() {
       </Router>
   );
 }
-
-export default App;

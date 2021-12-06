@@ -9,7 +9,6 @@
     display: flex;
     justify-content: center;
     list-style-type: none;
-    cursor: pointer;
 }
 
 .social_list li {
