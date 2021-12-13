@@ -12,7 +12,7 @@
       "id": 1
     },
     {
-      "name": "teste",
+      "name": "Ryu",
       "budget": "123123123",
       "category": {
         "id": "1",
@@ -23,7 +23,7 @@
       "id": 2
     },
     {
-      "name": "werwe",
+      "name": "Gundam",
       "budget": "333",
       "category": {
         "id": "2",
@@ -34,16 +34,15 @@
       "id": 3
     },
     {
-      "name": "wer",
-      "budget": "33",
+      "name": "Nova Iorque",
+      "budget": "50000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
       "cost": 0,
       "services": [],
       "id": 4
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 5
     }
   ],
   "categories": [
