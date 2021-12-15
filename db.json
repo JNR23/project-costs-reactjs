@@ -1,26 +1,15 @@
 {
   "projects": [
     {
-      "name": "Júnior",
-      "budget": "1000",
+      "name": "React",
+      "budget": "5000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
       "id": 1
-    },
-    {
-      "name": "Gundam",
-      "budget": "333",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
     }
   ],
   "categories": [
